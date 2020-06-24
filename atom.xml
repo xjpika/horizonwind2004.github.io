@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://cjxj233.github.io</id>
+    <id>https://horizonwind2004.github.io</id>
     <title>HorizonWind</title>
-    <updated>2020-06-24T05:20:00.421Z</updated>
+    <updated>2020-06-24T05:32:00.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://cjxj233.github.io"/>
-    <link rel="self" href="https://cjxj233.github.io/atom.xml"/>
-    <logo>https://cjxj233.github.io/images/avatar.png</logo>
-    <icon>https://cjxj233.github.io/favicon.ico</icon>
+    <link rel="alternate" href="https://horizonwind2004.github.io"/>
+    <link rel="self" href="https://horizonwind2004.github.io/atom.xml"/>
+    <logo>https://horizonwind2004.github.io/images/avatar.png</logo>
+    <icon>https://horizonwind2004.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, HorizonWind</rights>
     <entry>
         <title type="html"><![CDATA[CERC2015 Frightful Formula]]></title>
-        <id>https://cjxj233.github.io/post/cerc2015-frightful-formula/</id>
-        <link href="https://cjxj233.github.io/post/cerc2015-frightful-formula/">
+        <id>https://horizonwind2004.github.io/post/cerc2015-frightful-formula/</id>
+        <link href="https://horizonwind2004.github.io/post/cerc2015-frightful-formula/">
         </link>
         <updated>2020-06-23T05:54:52.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[树上拓扑最优化问题]]></title>
-        <id>https://cjxj233.github.io/post/shu-shang-tuo-bu-zui-you-hua-wen-ti/</id>
-        <link href="https://cjxj233.github.io/post/shu-shang-tuo-bu-zui-you-hua-wen-ti/">
+        <id>https://horizonwind2004.github.io/post/shu-shang-tuo-bu-zui-you-hua-wen-ti/</id>
+        <link href="https://horizonwind2004.github.io/post/shu-shang-tuo-bu-zui-you-hua-wen-ti/">
         </link>
         <updated>2020-06-22T08:30:35.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[一个组合意义的巧妙应用]]></title>
-        <id>https://cjxj233.github.io/post/yi-ge-zu-he-yi-yi-de-qiao-miao-ying-yong/</id>
-        <link href="https://cjxj233.github.io/post/yi-ge-zu-he-yi-yi-de-qiao-miao-ying-yong/">
+        <id>https://horizonwind2004.github.io/post/yi-ge-zu-he-yi-yi-de-qiao-miao-ying-yong/</id>
+        <link href="https://horizonwind2004.github.io/post/yi-ge-zu-he-yi-yi-de-qiao-miao-ying-yong/">
         </link>
         <updated>2020-06-22T08:30:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[后缀数组]]></title>
-        <id>https://cjxj233.github.io/post/hou-zhui-shu-zu/</id>
-        <link href="https://cjxj233.github.io/post/hou-zhui-shu-zu/">
+        <id>https://horizonwind2004.github.io/post/hou-zhui-shu-zu/</id>
+        <link href="https://horizonwind2004.github.io/post/hou-zhui-shu-zu/">
         </link>
         <updated>2020-06-22T08:30:15.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CF516D Drazil and Morning Exercise]]></title>
-        <id>https://cjxj233.github.io/post/cf516d-drazil-and-morning-exercise/</id>
-        <link href="https://cjxj233.github.io/post/cf516d-drazil-and-morning-exercise/">
+        <id>https://horizonwind2004.github.io/post/cf516d-drazil-and-morning-exercise/</id>
+        <link href="https://horizonwind2004.github.io/post/cf516d-drazil-and-morning-exercise/">
         </link>
         <updated>2020-06-22T08:28:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[AGC021E Ball Eat Chameleons]]></title>
-        <id>https://cjxj233.github.io/post/agc021e-ball-eat-chameleons/</id>
-        <link href="https://cjxj233.github.io/post/agc021e-ball-eat-chameleons/">
+        <id>https://horizonwind2004.github.io/post/agc021e-ball-eat-chameleons/</id>
+        <link href="https://horizonwind2004.github.io/post/agc021e-ball-eat-chameleons/">
         </link>
         <updated>2020-06-22T08:26:37.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZJOI2019 麻将]]></title>
-        <id>https://cjxj233.github.io/post/zjoi2019-ma-jiang/</id>
-        <link href="https://cjxj233.github.io/post/zjoi2019-ma-jiang/">
+        <id>https://horizonwind2004.github.io/post/zjoi2019-ma-jiang/</id>
+        <link href="https://horizonwind2004.github.io/post/zjoi2019-ma-jiang/">
         </link>
         <updated>2020-06-22T08:26:24.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[ZJOI2019 开关]]></title>
-        <id>https://cjxj233.github.io/post/zjoi2019-kai-guan/</id>
-        <link href="https://cjxj233.github.io/post/zjoi2019-kai-guan/">
+        <id>https://horizonwind2004.github.io/post/zjoi2019-kai-guan/</id>
+        <link href="https://horizonwind2004.github.io/post/zjoi2019-kai-guan/">
         </link>
         <updated>2020-06-22T08:26:07.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[CF585E  Present for Vitalik the Philatelist]]></title>
-        <id>https://cjxj233.github.io/post/cf585e-present-for-vitalik-the-philatelist/</id>
-        <link href="https://cjxj233.github.io/post/cf585e-present-for-vitalik-the-philatelist/">
+        <id>https://horizonwind2004.github.io/post/cf585e-present-for-vitalik-the-philatelist/</id>
+        <link href="https://horizonwind2004.github.io/post/cf585e-present-for-vitalik-the-philatelist/">
         </link>
         <updated>2020-06-22T08:19:25.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[POI2007 KLO]]></title>
-        <id>https://cjxj233.github.io/post/poi2007-klo/</id>
-        <link href="https://cjxj233.github.io/post/poi2007-klo/">
+        <id>https://horizonwind2004.github.io/post/poi2007-klo/</id>
+        <link href="https://horizonwind2004.github.io/post/poi2007-klo/">
         </link>
         <updated>2020-06-22T08:19:08.000Z</updated>
     </entry>
